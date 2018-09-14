@@ -1,2 +1,1 @@
-title: Hi, I'm Benoit Deneaux !
-description: Studying Game Design at Bellecour Ecole.
+
