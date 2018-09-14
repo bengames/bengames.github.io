@@ -2,5 +2,3 @@ theme: jekyll-theme-midnight
 gem "github-pages", group: :jekyll_plugins
 title: [Hi, I'm Benoit Deneaux !]
 description: Studying Game Design at Bellecour Ecole.
-
-This is a test
